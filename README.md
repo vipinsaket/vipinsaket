@@ -1,107 +1,141 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080f24,45:1263b7,100:8b5cf6&height=225&section=header&text=Vipin%20Kumar%20Saket&fontColor=ffffff&fontSize=43&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%7C%20Full-Stack%20%7C%20AI&descAlignY=60&animation=fadeIn" alt="Vipin Kumar Saket — developer banner" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3100&pause=850&color=36BCF7&center=true&vCenter=true&width=790&lines=Hey+there!+I'm+Vipin+%F0%9F%91%8B;Java+%7C+Full-Stack+%7C+Backend+Development;Exploring+AI%2C+GraphQL+%26+TimescaleDB;Build.+Learn.+Create.+Grow." alt="Animated developer introduction" /></a>
+
+<a href="https://github.com/vipinsaket"><img src="https://komarev.com/ghpvc/?username=vipinsaket&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" /></a>
+<a href="https://github.com/vipinsaket?tab=followers"><img src="https://img.shields.io/github/followers/vipinsaket?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers" /></a>
+<a href="https://github.com/vipinsaket?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Code-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+
 </div>
 
+## 👋 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
 
+I'm **Vipin Kumar Saket**, a software developer based in **Indore, India**, interested in **Java, full-stack development, backend systems, APIs, and AI-powered applications**.
 
+- 🔭 Building and exploring **Java / Spring Boot** and **OpenAI API** projects
+- 🗃️ Learning more about **PostgreSQL, TimescaleDB, and GraphQL**
+- 🧠 Practising **DSA**, **OOP**, and problem solving
+- ⚙️ Interested in **automation**, clean code, and scalable systems
+- 🤝 Open to learning and collaborating on useful software
 
+</td>
+<td valign="top">
 
+```java
+class Vipin {
+    String role = "Software Developer";
+    String home = "Indore, India";
+    String[] focus = {
+        "Java", "Full-Stack", "AI",
+        "Backend", "APIs"
+    };
 
+    String motto() {
+        return "Build. Learn. Grow.";
+    }
+}
+```
 
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-I am **Vipin Kumar Saket** and I am a Software Developer.
+</td>
+</tr>
+</table>
 
-- 👨‍💻 Passionate about Java, Data Structures, and Web Development
-- 🌱 Currently working on OpenAI API & Salesforce Projects
-- 🎯 Always excited to build and learn new tech stacks
-- 🧠 Focused on OOPs, full-stack development, and automation
-- 🚀 My favorite tools: Java | GitHub | VS Code | APIs
+## 🛠️ Tech Stack & Skills
 
----
+<div align="center">
 
-### 🔗 Connect with me
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,html,css&theme=dark" alt="Java, JavaScript, TypeScript, C, C++, HTML and CSS" />
 
+**Frontend**
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js and Tailwind CSS" />
 
-<p >
+**Backend & APIs**
 
-<a href="https://www.linkedin.com/in/vipinsaket/">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" alt="Spring Boot and Node.js" />
 
+<br />
 
-<a href="https://github.com/vipinsaket">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" />
-</a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=00d4ff" alt="REST APIs" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+<img src="https://img.shields.io/badge/Java%20Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Servlets" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
 
-<a href="https://leetcode.com/u/vipinsaket/">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" />
-</a>&nbsp;&nbsp;
+**Databases**
 
-<a href="https://vipinsaket.github.io/Portfolio/">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/1177/1177568.png" alt="Vipin Portfolio" />
-</a>
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL and MySQL" />
 
+<br />
 
-</p>
+<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=postgresql&logoColor=101827" alt="TimescaleDB" />
 
+**AI, Cloud & Enterprise Tools**
 
----
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+<img src="https://img.shields.io/badge/Apex-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+<img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Web Components" />
 
+**Development Tools**
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" alt="Git, GitHub, VS Code, Postman and Linux" />
 
-### 💻 Languages and Tools...
+**Core Concepts**
 
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></code>
+<img src="https://img.shields.io/badge/Data%20Structures-155e75?style=for-the-badge" alt="Data Structures" />
+<img src="https://img.shields.io/badge/Algorithms-1d4ed8?style=for-the-badge" alt="Algorithms" />
+<img src="https://img.shields.io/badge/OOP-6d28d9?style=for-the-badge" alt="Object Oriented Programming" />
+<img src="https://img.shields.io/badge/Problem%20Solving-0f766e?style=for-the-badge" alt="Problem Solving" />
 
+</div>
 
+## 🚀 Featured Projects
 
+| Project | Details |
+|:--|:--|
+| [🤖 OpenAI GPT](https://github.com/vipinsaket/OpenAI_GPT) | OpenAI API experiments and AI-related development |
+| [☕ Java Servlet CRUD](https://github.com/vipinsaket/CRUD_OperationsServlet) | Practice implementing CRUD operations with Java Servlets |
+| [🌐 Portfolio Website](https://github.com/vipinsaket/Portfolio) | Personal portfolio and web development showcase |
+| [🧩 LeetHub 2.0](https://github.com/vipinsaket/LeetHub-2.0) | Coding practice and problem-solving repositories |
+| [🔐 FolderPassword](https://github.com/vipinsaket/FolderPassword) | FolderPassword project |
+| [🛍️ E-Commerce](https://github.com/vipinsaket/E-Commerce.github.oo) | E-commerce website project |
 
+<div align="center">
+<a href="https://github.com/vipinsaket?tab=repositories"><img src="https://img.shields.io/badge/🚀_Explore_All_Repositories-2563eb?style=for-the-badge" alt="All repositories" /></a>
+</div>
 
+## 📈 GitHub Activity
 
-### ⚡ My GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipinsaket&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipinsaket&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vipinsaket&theme=default)
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vipinsaket&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsaket&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used across public repositories" />
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vipinsaket&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
+</div>
 
+## 🌍 Let's Connect
 
+<div align="center">
 
+<a href="https://www.linkedin.com/in/vipinsaket/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://vipinsaket.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://leetcode.com/u/vipinsaket/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:vipinkumar11135@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<br /><br />
 
+**✨ Keep learning. Keep building. Keep improving. ✨**
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:080f24&height=110&section=footer" alt="Footer wave" />
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
