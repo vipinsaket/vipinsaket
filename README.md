@@ -1,107 +1,88 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=210&section=header&text=Vipin%20Kumar%20Saket&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%7C%20Full-Stack%20%7C%20AI&descAlignY=60&animation=fadeIn" alt="Vipin Kumar Saket banner"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=38BDF8&center=true&vCenter=true&width=740&lines=Hey+there!+I'm+Vipin+%F0%9F%91%8B;Java+%26+Full-Stack+Developer;Building+practical+software+and+AI+projects;Always+learning.+Always+building." alt="Typing introduction"/></a>
+
+<a href="https://github.com/vipinsaket"><img src="https://komarev.com/ghpvc/?username=vipinsaket&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views"/></a>
+<a href="https://github.com/vipinsaket?tab=followers"><img src="https://img.shields.io/github/followers/vipinsaket?label=Followers&style=for-the-badge&color=2563eb" alt="GitHub followers"/></a>
+
 </div>
 
+## 👨‍💻 About me
 
+```java
+public class Vipin {
+    String name = "Vipin Kumar Saket";
+    String role = "Software Developer";
+    String location = "Indore, India";
+    String[] interests = {"Java", "Spring Boot", "Full-Stack", "AI", "DSA"};
 
+    String currentFocus() {
+        return "Building useful applications and learning every day.";
+    }
+}
+```
 
+- 🔭 Exploring **Java, Spring Boot, APIs and AI-powered applications**
+- 🌱 Improving my **data structures, algorithms and full-stack skills**
+- 🧩 Interested in **clean code, backend architecture and automation**
+- 🤝 Open to collaborating on interesting developer projects
+- 📍 Based in **Indore, India**
 
+## 🛠️ Tech stack
 
+<div align="center">
 
+**Languages**
 
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-I am **Vipin Kumar Saket** and I am a Software Developer.
+<img src="https://skillicons.dev/icons?i=java,js,html,css,c,cpp&theme=dark" alt="Programming languages"/>
 
-- 👨‍💻 Passionate about Java, Data Structures, and Web Development
-- 🌱 Currently working on OpenAI API & Salesforce Projects
-- 🎯 Always excited to build and learn new tech stacks
-- 🧠 Focused on OOPs, full-stack development, and automation
-- 🚀 My favorite tools: Java | GitHub | VS Code | APIs
+**Backend & Databases**
 
----
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres&theme=dark" alt="Backend and database tools"/>
 
-### 🔗 Connect with me
+**Tools & Platforms**
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer tools"/>
 
+</div>
 
+## 🚀 Featured projects
 
-<p >
+| Project | What you'll find |
+| --- | --- |
+| [🤖 OpenAI GPT](https://github.com/vipinsaket/OpenAI_GPT) | My OpenAI API exploration and AI project work |
+| [☕ Java Servlet CRUD](https://github.com/vipinsaket/CRUD_OperationsServlet) | Practice building CRUD functionality with Java Servlets |
+| [🌐 Portfolio](https://github.com/vipinsaket/Portfolio) | My personal portfolio website |
+| [🧠 LeetHub](https://github.com/vipinsaket/LeetHub-2.0) | Coding practice and problem-solving work |
 
-<a href="https://www.linkedin.com/in/vipinsaket/">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
-
-
-<a href="https://github.com/vipinsaket">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" />
-</a>&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/vipinsaket/">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" />
-</a>&nbsp;&nbsp;
-
-<a href="https://vipinsaket.github.io/Portfolio/">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/1177/1177568.png" alt="Vipin Portfolio" />
-</a>
-
-
+<p align="center">
+  <a href="https://github.com/vipinsaket?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
 </p>
 
+## 📊 GitHub activity
 
----
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=vipinsaket&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsaket&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vipinsaket&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 
-### 💻 Languages and Tools...
+</div>
 
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="30" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></code>
+> **“Keep learning. Keep building. Let the code speak.”**
 
+## 🌐 Let's connect
 
+<div align="center">
 
+<a href="https://www.linkedin.com/in/vipinsaket/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://vipinsaket.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://leetcode.com/u/vipinsaket/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="mailto:vipinkumar11135@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
+</div>
 
-
-### ⚡ My GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipinsaket&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipinsaket&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vipinsaket&theme=default)
-
-
-
-
-
-
-
-
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=110&section=footer" alt="Footer wave"/>
